@@ -1,11 +1,13 @@
+##
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=C99FBC&center=true&vCenter=true&width=500&lines=Vruti+Rupapara" alt="Typing SVG" />
   </a>
 </div>
 
+## About Me
 <div align="center">
-  ### About Me
+
   <p>
     A <b>Computer Engineering</b> undergrad and <b>Developer & into Cybersecurity </b>
   </p>
@@ -17,19 +19,17 @@
   </p>
 </div>
 <br>
-<div align="center">
-  ### Tech stack
+
+## Tech stack
+
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=java,py,c,solidity,javascript,typescript,next,html,css,git,kali,bash&perline=6"   />
-  
-</div>
-</div>
-
-
+  </div>
 <br>
 
 <div align="center">
-  <h3>🏃🏻‍♀️ My GitHub Journey</h3>
+  <h3> My GitHub Journey</h3>
   <!-- The girl hopping on the contribution graph SVG goes here -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vruti26/Vruti26/output/github-contribution-grid-snake-dark.svg">
